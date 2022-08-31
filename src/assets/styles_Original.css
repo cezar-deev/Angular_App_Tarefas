@@ -28,7 +28,7 @@ body {
     -moz-box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
     box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
   }
-
+  
   li {
     padding: 15px;
     margin: 10px;
@@ -45,16 +45,16 @@ body {
     opacity: 0.6;
     transition: opacity 1s;
   }
-
+  
   li>button:hover {
     opacity: 1;
     transition: opacity 1s;
   }
-
+  
   .title {
     font-family: 'Dancing Script', cursive;
     color: #fff;
-    font-size: 4em;
+    font-size: 5em;
     text-shadow: 3px 5px #000;
   }
   
@@ -77,13 +77,13 @@ body {
   #modal {
     text-align: left;
     margin: 10px;
-    padding: 30px;
+    padding: 10px;
     list-style: none;
     background: #fff;
     border-radius: 10px;
     -webkit-box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
     -moz-box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
-    box-shadow: 3px 4px 14px 0px rgba(115, 13, 13, 0.39);
+    box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
   }
   
   #modal>h1 {
@@ -98,7 +98,9 @@ body {
   }
   
   .danger {
-    color: #ff0000;
+    background-color: #ff0000;
+    color: #fff;
+    font-weight: bold;
     padding: 5px;
     margin-top: 10px;
   }
