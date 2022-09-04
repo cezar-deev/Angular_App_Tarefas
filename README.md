@@ -1,6 +1,6 @@
 # Todo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
+Acesse ao Projeto : [Clique Aqui ](https://cezar-deev.github.io/Angular_App_Tarefas/) 
 
 ## Development server
 
