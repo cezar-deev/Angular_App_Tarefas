@@ -94,6 +94,13 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "/Angular_App_Tarefas/"
+
+          }
         }
       }
     }
